@@ -2,7 +2,7 @@ export const WHITE = '#fff';
 export const BLACK = '#000';
 
 export const PRIMARY = {
-  DEFAULT: '32563eb',
+  DEFAULT: '#2563eb',
 };
 
 export const GRAY = {
